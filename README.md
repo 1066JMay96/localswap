@@ -4,8 +4,10 @@ local Bitcoin and XMR alternative with a built in wallet for atomic swaps
 - [] setup some frontend routes and file structure.
     - [] setup leaflet to get your map to display.
 
+
 - [] setup your database
-    - [] setup blockfrost
+    - [x] setup blockfrost
+    - []
 
 - [] connect unstoppable domains to point to your blockfrost server.
 - [] setup crypto libraries & basic key generation functionality.
